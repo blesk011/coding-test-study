@@ -1,2 +1,4 @@
 # coding-test-study
-codility site
+
+## Description
+codility lesson site [https://app.codility.com/programmers/lessons/1-iterations/]
